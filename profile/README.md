@@ -20,7 +20,7 @@ Our organization serves as a creative space for experimentation, knowledge shari
 
 🚀 If you're new to the world of web development and machine learning, we've compiled a list of resources to help you get started:
 
-- [Our Wiki for Devs](dub.sh/wikidevs)
+- [Our Wiki for Devs](https://dub.sh/wikidevs)
 
 Feel free to explore our repository for in-depth insights and examples.
 
