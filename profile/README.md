@@ -34,7 +34,7 @@ Feel free to explore our repository for in-depth insights and examples.
 
 ## Stay Connected
 
-📢 Let's stay connected on [X (formerly Twitter)](https://twitter.com/emapeire) for the latest updates and discussions on our web and machine learning escapades.
+📢 Let's stay connected with [Emanuel Peire](https://github.com/emapeire) on [X (formerly Twitter)](https://twitter.com/emapeire) for the latest updates and discussions on our web and machine learning escapades.
 
 ## Join Us
 
