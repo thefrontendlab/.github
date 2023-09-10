@@ -1,6 +1,6 @@
 # Frontend Computer
 
-👋 Welcome to Frontend Computer, a non-profit organization dedicated to exploring the intersection of web development and machine learning!
+👋 Welcome to Frontend Computer, a organization dedicated to exploring the intersection of web development and machine learning!
 
 ## About Us
 
