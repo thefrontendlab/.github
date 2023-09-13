@@ -1,10 +1,10 @@
-# Frontend Computer
+# Frontend Computing
 
-👋 Welcome to Frontend Computer, a organization dedicated to exploring the intersection of web development and machine learning!
+👋 Welcome to Frontend Computing, a organization dedicated to exploring the intersection of web development and machine learning!
 
 ## About Us
 
-🙋‍♀️ Frontend Computer is a platform for passionate developers and AI enthusiasts who are excited about the possibilities of combining web technologies and machine learning to create innovative and intelligent web applications.
+🙋‍♀️ Frontend Computing is a platform for passionate developers and AI enthusiasts who are excited about the possibilities of combining web technologies and machine learning to create innovative and intelligent web applications.
 
 Our organization serves as a creative space for experimentation, knowledge sharing, and showcasing projects that bridge the gap between these two domains.
 
@@ -30,7 +30,7 @@ Feel free to explore our repository for in-depth insights and examples.
 
 ## Our Team
 
-👩‍💻 While it's a collective effort at Frontend Computer, we come from diverse backgrounds, incorporating design, logic, and creativity – all to amplify the magic of web and Machine Learning.
+👩‍💻 While it's a collective effort at Frontend Computing, we come from diverse backgrounds, incorporating design, logic, and creativity – all to amplify the magic of web and Machine Learning.
 
 ## Stay Connected
 
