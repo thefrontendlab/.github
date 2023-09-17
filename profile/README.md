@@ -32,7 +32,7 @@ Feel free to explore our repository for in-depth insights and examples.
 
 ## Stay Connected
 
-📢 Let's stay connected with us on [X (formerly Twitter)](https://twitter.com/frontend_c) for the latest updates and discussions on our web and machine learning escapades.
+📢 Let's stay connected with us on [X (formerly Twitter)](https://twitter.com/frontend_c) or with our open community of [@nextjs Argentina](https://twitter.com/nextjsargentina) for the latest updates and discussions on our web and machine learning escapades.
 
 ## Join Us
 
