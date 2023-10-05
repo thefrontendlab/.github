@@ -18,7 +18,7 @@ Our organization serves as a creative space for experimentation, knowledge shari
 
 ## Getting Started
 
-🚀 If you're new to the world of web development and machine learning, we've compiled a list of resources to help you get started on our [wiki for devs](https://dub.sh/wikidevs) and our [wiki for @vercel developers](https://dub.sh/wikivercel).
+🚀 If you're new to the world of web development and machine learning, we've compiled a list of resources to help you get started on our [wiki for devs](https://dub.sh/wikidevs) and our [wiki for Vercel developers](https://dub.sh/wikivercel).
 
 Feel free to explore our repository for in-depth insights and examples.
 
@@ -32,7 +32,7 @@ Feel free to explore our repository for in-depth insights and examples.
 
 ## Stay Connected
 
-📢 Let's stay connected with us on our [Frontend Compunting Community](https://twitter.com/frontend_comp) on X (formerly Twitter) or with our [Open Community of @nextjs Argentina](https://twitter.com/nextjsargentina) for the latest updates and discussions on our web and machine learning escapades.
+📢 Let's stay connected with us on our [Frontend Compunting Community](https://twitter.com/frontend_comp) on X (formerly Twitter) or with our [Open Community of Nextjs Argentina](https://twitter.com/nextjsargentina) for the latest updates and discussions on our web and machine learning escapades.
 
 ## Join Us
 
