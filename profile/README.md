@@ -32,7 +32,7 @@ Feel free to explore our repository for in-depth insights and examples.
 
 ## Stay Connected
 
-📢 Let's stay connected with us on our [Frontend Compunting Community](https://twitter.com/frontend_comp) on X (formerly Twitter) or with our [Open Community of Nextjs Argentina](https://twitter.com/nextjsargentina) for the latest updates and discussions on our web and machine learning escapades.
+📢 Let's stay connected with us on our [Frontend Compunting Community](https://twitter.com/frontend_camp) on X (formerly Twitter) or with our [Open Community of Nextjs Argentina](https://twitter.com/nextjsargentina) for the latest updates and discussions on our web and machine learning escapades.
 
 ## Join Us
 
