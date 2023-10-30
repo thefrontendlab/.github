@@ -1,6 +1,6 @@
 # Frontend Camp
 
-👋 Welcome to Frontend Camp, a organization dedicated to exploring the intersection of web development and machine learning!
+👋 Welcome to Frontend Camp, an organization dedicated to exploring the intersection of web development and machine learning!
 
 ## About Us
 
