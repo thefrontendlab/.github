@@ -1,10 +1,10 @@
-# Frontend Computing
+# Frontend Camp
 
-👋 Welcome to Frontend Computing, a organization dedicated to exploring the intersection of web development and machine learning!
+👋 Welcome to Frontend Camp, a organization dedicated to exploring the intersection of web development and machine learning!
 
 ## About Us
 
-🙋‍♀️ Frontend Computing is a platform for passionate developers and AI enthusiasts who are excited about the possibilities of combining web technologies and machine learning to create innovative and intelligent web applications.
+🙋‍♀️ Frontend Camp is a platform for passionate developers and AI enthusiasts who are excited about the possibilities of combining web technologies and machine learning to create innovative and intelligent web applications.
 
 Our organization serves as a creative space for experimentation, knowledge sharing, and showcasing projects that bridge the gap between these two domains.
 
@@ -28,11 +28,11 @@ Feel free to explore our repository for in-depth insights and examples.
 
 ## Our Team
 
-👩‍💻 While it's a collective effort at Frontend Computing, we come from diverse backgrounds, incorporating design, logic, and creativity – all to amplify the magic of web and Machine Learning.
+👩‍💻 While it's a collective effort at Frontend Camp, we come from diverse backgrounds, incorporating design, logic, and creativity – all to amplify the magic of web and Machine Learning.
 
 ## Stay Connected
 
-📢 Let's stay connected with us on our [Frontend Compunting Community](https://twitter.com/frontend_camp) on X (formerly Twitter) or with our [Open Community of Nextjs Argentina](https://twitter.com/nextjsargentina) for the latest updates and discussions on our web and machine learning escapades.
+📢 Let's stay connected with us on our [Frontend Camp Community](https://twitter.com/frontend_camp) on X (formerly Twitter) or with our [Open Community of Nextjs Argentina](https://twitter.com/nextjsargentina) for the latest updates and discussions on our web and machine learning escapades.
 
 ## Join Us
 
