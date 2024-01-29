@@ -18,7 +18,7 @@ Our organization serves as a creative space for experimentation, knowledge shari
 
 ## Getting Started
 
-🚀 If you're new to the world of web development and machine learning, we've compiled a list of resources to help you get started on our [Wiki Devs: a hub for spanish developers](https://dub.sh/wikidevs), and our [Wiki Vercel: Next.js programming edition](https://dub.sh/wikivercel).
+🚀 If you're new to the world of web development and machine learning, we've compiled a list of resources to help you get started on our [wiki devs: a hub for spanish developers](https://dub.sh/wikidevs), and our [wiki vercel: Next.js programming edition](https://dub.sh/wikivercel).
 
 Feel free to explore our repository for in-depth insights and examples.
 
@@ -32,7 +32,7 @@ Feel free to explore our repository for in-depth insights and examples.
 
 ## Stay Connected
 
-📢 Let's stay connected with us on our [Frontend Lab Community](https://twitter.com/frontendlab) on X (formerly Twitter) or with our [Open Community of Nextjs Argentina](https://twitter.com/nextjsargentina) for the latest updates and discussions on our web and machine learning escapades.
+📢 Let's stay connected with us on our [Frontend Lab community](https://twitter.com/frontendlab) on X (formerly Twitter).
 
 ## Join Us
 
